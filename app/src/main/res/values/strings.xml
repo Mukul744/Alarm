@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string-array name="notificationNames">
+        <item>Shopping</item>
+        <item>Drink Water</item>
+        <item>Exercise</item>
+        <item>Move up from the Bed</item>
+        <item>Take A Walk</item>
+        <item>Bath</item>
+    </string-array>
+    string>
+    <string name="add">Add activity to list</string>
+    <string name="channel_name">notification</string>
+    <string name="channel_description">used for creating notification</string>
+    <string name="tap_to_see_notification">Tap to see notification</string>
+    <string name="alarmButton">AlarmButton</string>
+    <string name="imageview">display notification bell</string>
+    <string name="set_a_reminder">Set a Reminder</string>
+    <string name="alarmset">alarmTimer</string>
+</resources>
